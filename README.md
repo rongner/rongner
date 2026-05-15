@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Michael Rongner 👋
 
-<!--
-**rongner/rongner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Software Engineer** with 20+ years of experience building software across healthcare, pharmaceutical, and scientific instrumentation industries.
 
-Here are some ideas to get you started:
+I work across the entire stack — from embedded firmware and hardware integration through back-end services and front-end web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech I work with
+
+**Languages:** C#, C++, JavaScript, SQL, Visual Basic  
+**Frameworks:** .NET, Blazor/MudBlazor, WPF, React, Node.js, Entity Framework, PRISM, MEF  
+**Cloud & Infra:** AWS, Azure, Terraform, Terragrunt, Microservices  
+**Databases:** PostgreSQL, SQL Server  
+**Patterns:** MVVM, MVC, Agile/Scrum  
+**AI Tools:** Claude Code, GitHub Copilot, ChatGPT  
+
+---
+
+## 🏥 Industries
+
+- **Healthcare SaaS** — patient intake platforms, enterprise clinical workflows
+- **Pharmaceutical** — lab automation, data analysis, instrumentation software
+- **Scientific Instrumentation** — embedded firmware, hardware-integrated desktop applications
+
+---
+
+## 📌 Featured Projects
+
+<!-- Pin your repos and they'll show up here automatically -->
+Check out my pinned repositories below ⬇️
+
+---
+
+## 📫 Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-rongner/)
+- 📧 michael.rongner@gmail.com
+- 🌐 Open to full-time and contract opportunities
+
+---
+
+*Certified Scrum Master · B.A. Astronomy, UMass Amherst*
